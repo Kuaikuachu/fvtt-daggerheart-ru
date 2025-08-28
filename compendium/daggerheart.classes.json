@@ -19,10 +19,82 @@
 		"adaptability_action": "system.actions.D7EE2L2Y96nfrfTW.name"
 	},
 	"entries": {
+    "Arcane Sense": {
+			"name": "Поддержка Жизни"
+    },
+    "Attack Of Opportunity": {
+			"name": "Поддержка Жизни"
+    },
+    "Beastform": {
+			"name": "Поддержка Жизни"
+    },
+    "Channel Raw Power": {
+			"name": "Поддержка Жизни"
+    },
+    "Cloaked": {
+			"name": "Поддержка Жизни"
+    },
+    "Combat Training": {
+			"name": "Поддержка Жизни"
+    },
+    "Evolution": {
+			"name": "Поддержка Жизни"
+    },
+    "Frontline Tank": {
+			"name": "Поддержка Жизни"
+    },
+    "Hold Them Off": {
+			"name": "Поддержка Жизни"
+    },
 		"Life Support": {
 			"name": "Поддержка Жизни",
 			"description": "<p><strong>Потратьте 3 Надежды,</strong> чтобы очистить ПЗ на союзнике в пределах близкого расстояния.</p>"
 		},
+    "Make a Scene": {
+			"name": "Поддержка Жизни"
+    },
+    "Minor Illusion": {
+			"name": "Поддержка Жизни"
+    },
+    "No Mercy": {
+			"name": "Поддержка Жизни"
+    },
+    "Not This Time": {
+			"name": "Поддержка Жизни"
+    },
+    "Prayer Dice": {
+			"name": "Поддержка Жизни"
+    },
+    "Prestidigitation": {
+			"name": "Поддержка Жизни"
+    },
+    "Rally": {
+			"name": "Поддержка Жизни"
+    },
+    "Rally (Level 5)": {
+			"name": "Поддержка Жизни"
+    },
+    "Ranger's Focus": {
+			"name": "Поддержка Жизни"
+    },
+    "Rogue's Dodge": {
+			"name": "Поддержка Жизни"
+    },
+    "Sneak Attack": {
+			"name": "Поддержка Жизни"
+    },
+    "Strange Patterns": {
+			"name": "Поддержка Жизни"
+    },
+    "Unstoppable": {
+			"name": "Поддержка Жизни"
+    },
+    "Volatile Magic1": {
+			"name": "Поддержка Жизни"
+    },
+    "Wildtouch": {
+			"name": "Поддержка Жизни"
+    },
 		"Seraph": {
 			"name": "Serafín"
 		},
