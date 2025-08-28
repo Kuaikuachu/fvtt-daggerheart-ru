@@ -1,0 +1,54 @@
+{
+	"label": "Linajes",
+	"folders": {
+		"Class Features": "Rasgos de clase",
+		"Class Items": "Objetos de clase",
+		"Seraph": "Serafín",
+		"Bard": "Bardo",
+		"Druid": "Druida",
+		"Guardian": "Guardián",
+		"Ranger": "Explorador",
+		"Rogue": "Pícaro",
+		"Warrior": "Guerrero",
+		"Wizard": "Mago",
+		"Sorcerer": "Hechicero"
+	},
+	"mapping": {
+		"description": "system.description",
+
+		"adaptability_action": "system.actions.D7EE2L2Y96nfrfTW.name"
+	},
+	"entries": {
+		"Life Support": {
+			"name": "Поддержка Жизни",
+			"description": "<p><strong>Потратьте 3 Надежды,</strong> чтобы очистить ПЗ на союзнике в пределах близкого расстояния.</p>"
+		},
+		"Seraph": {
+			"name": "Serafín"
+		},
+		"Bard": {
+			"name": "Bardo"
+		},
+		"Druid": {
+			"name": "Druida"
+		},
+		"Guardian": {
+			"name": "Guardián"
+		},
+		"Ranger": {
+			"name": "Explorador"
+		},
+		"Rogue": {
+			"name": "Pícaro"
+		},
+		"Warrior": {
+			"name": "Guerrero"
+		},
+		"Wizard": {
+			"name": "Mago"
+		},
+		"Sorcerer": {
+			"name": "Hechicero"
+		}
+	}
+}
